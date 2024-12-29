@@ -108,5 +108,3 @@ Cairo, Alberto (2013) **The Functional Art: An Introduction to Information Graph
 Few, Stephen (2004) **Show Me the Numbers: Designing Tables and Graphs to Enlighten**, Analytics Press, Oakland, USA.
 
 Few, Stephen (2009) **Now You See It: Simple Visualization Techniques for Quantitative Analysis**, Analytics Press, Oakland, USA.
-
-
