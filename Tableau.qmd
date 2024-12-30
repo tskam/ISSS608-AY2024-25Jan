@@ -2,7 +2,7 @@
 title: "Tableau Resources"
 description: |
   This page provided useful links to Tableau resources.
-date: "`r Sys.Date()`"
+date-modified: "last-modified"
 format: html
 editor: visual
 ---

@@ -40,10 +40,10 @@ The Minutes of Meeting must be uploaded on eLearn within 24hrs after the meeting
 ## Project Milestone
 
 -   Brainstorming project ideas and consulting with course instructor anytime after the project topic(s) is released.
--   Editing and publishing project proposal on Netlify latest by the end of **Week 5**.
--   ~~Uploading project poster on eLearn by **27th March 2024 at 11:59pm (mid-night)**~~.
--   Poster presentation: ~~**30th March 2024, 9:00am-11:00am**~~ **6th April 2024 2:400pm**
--   Submission of final application, user guide, project poster and artifacts: **31st March 2024 by 11:59pm (mid-night)**
+-   Editing and publishing project proposal on Netlify latest by the end of **Week 8**.
+-   Uploading project poster on eLearn by **2nd April 2025 at 11:59pm (mid-night)**.
+-   Poster presentation: **5th April 2025 2:00-4:00pm**
+-   Submission of final application, user guide, project poster and artifacts: **6th April 2025 by 11:59pm (mid-night)**
 
 ## Project Deliverables
 
@@ -63,11 +63,11 @@ As a first step, you should create a project summary at the project website that
 
 ### Project proposal
 
-Each project teams must start thinking about their project ideas after the Shiny Workshop. They are expected to discuss their project topic and scope of works with the instructor from week 1 onward. A project proposal in the form of website edited using Quarto will be prepared and the link must be provided on eLearn by **11th February 2024**.
+Each project teams must start thinking about their project ideas after the Shiny Workshop. They are expected to discuss their project topic and scope of works with the instructor from week 1 onward. A project proposal in the form of website edited using Quarto will be prepared and the link must be provided on eLearn by **9th March 2025**.
 
 The project proposal should describe the motivation of the project, problems or issues that the project will address, the relevant related work, the approach the team plans to take to solve the problem, and early prototypes or storyboards. The project teams should take advantage of this proposal as a chance to get feedback on the direction of the project from their peers.
 
-Students are required to update their project websites with all the details including the final application, user guide and poster by **31st March 2024**.
+Students are required to update their project websites with all the details including the final application, user guide and poster by **6th April 2025**.
 
 ### Poster
 

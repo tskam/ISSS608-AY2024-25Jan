@@ -23,7 +23,6 @@ editor: visual
 
 -   [The Epilogue](../lesson/Epilogue/The_Epilogue.html) slides.
 
-
 ## Reference
 
 ### Core Readings
