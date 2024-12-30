@@ -641,7 +641,7 @@
     "href": "Syllabus.html#grading-summary",
     "title": "Syllabus",
     "section": "Grading Summary",
-    "text": "Grading Summary\nThe grading distribution of this course is as follows:\n\nPre-lesson Preparation and Hands-on Exercise 20%\nIn-class Exercise and Class Participation 20%\nTake-home Exercise 30%\nVisual Analytics Project 30%\n\nProject blog 15%\nPoster 10%\nPractice research paper 25%\nArtifact 50%\n\n\nThere will be no mid-term test and final examination for this course."
+    "text": "Grading Summary\nThe grading distribution of this course is as follows:\n\nPre-lesson Preparation and Hands-on Exercise 20%\nIn-class Exercise and Class Participation 20%\nTake-home Exercise 30%\nVisual Analytics Project 30%\n\nProject website 20%\nPoster 15%\nMinutes of Meeting 15%\nShinyApp 50%\n\n\nThere will be no mid-term test and final examination for this course."
   },
   {
     "objectID": "Syllabus.html#course-components",
@@ -2420,5 +2420,82 @@
     "title": "Lesson 5: Visual Multivariate Analysis",
     "section": "Reference",
     "text": "Reference\n\nRadar Chart.\nTernary plot, this and this.\nFriendly, M (2002) “Corrgrams: Exploratory Displays for Correlation Matrices” The American Statistician, Vol. 56, No. 4, pp. 316-324."
+  },
+  {
+    "objectID": "outline/Lesson11_outline.html",
+    "href": "outline/Lesson11_outline.html",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
+    "section": "",
+    "text": "Introduction to text data and text visualisation\nText Visualisation methods:\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\nText Visualisation in R\n\ntextplot\nLDAVis\nquanteda"
+  },
+  {
+    "objectID": "outline/Lesson11_outline.html#content",
+    "href": "outline/Lesson11_outline.html#content",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
+    "section": "",
+    "text": "Introduction to text data and text visualisation\nText Visualisation methods:\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\nText Visualisation in R\n\ntextplot\nLDAVis\nquanteda"
+  },
+  {
+    "objectID": "outline/Lesson11_outline.html#lesson-slides-and-hands-on-notes",
+    "href": "outline/Lesson11_outline.html#lesson-slides-and-hands-on-notes",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
+    "section": "Lesson Slides and Hands-on Notes",
+    "text": "Lesson Slides and Hands-on Notes\n\nLesson 9: Visualising and Analysing Text Data slides.\nHands-on Exercise 9: Visualising and Analysing Text Data."
+  },
+  {
+    "objectID": "outline/Lesson11_outline.html#readings",
+    "href": "outline/Lesson11_outline.html#readings",
+    "title": "Lesson 9: Visualising and Analysing Text Data",
+    "section": "Readings",
+    "text": "Readings\n\nCore Readings\n\nFun with Text Visualization\nThe pros and cons of word clouds as visualizations"
+  },
+  {
+    "objectID": "lesson/Lesson11/Lesson05-TextVis.html",
+    "href": "lesson/Lesson11/Lesson05-TextVis.html",
+    "title": "Lesson 5: Visualising and Analysing Text Data",
+    "section": "",
+    "text": "Introduction Text Visualisation\n\nText data\n\nText Visualisation Methods\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\nR Packages for Text Visualisation"
+  },
+  {
+    "objectID": "lesson/Lesson11/Lesson05-TextVis.html#content",
+    "href": "lesson/Lesson11/Lesson05-TextVis.html#content",
+    "title": "Lesson 5: Visualising and Analysing Text Data",
+    "section": "",
+    "text": "Introduction Text Visualisation\n\nText data\n\nText Visualisation Methods\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\nR Packages for Text Visualisation"
+  },
+  {
+    "objectID": "lesson/Lesson11/Lesson05-TextVis.html#introduction-to-text-visualisation",
+    "href": "lesson/Lesson11/Lesson05-TextVis.html#introduction-to-text-visualisation",
+    "title": "Lesson 5: Visualising and Analysing Text Data",
+    "section": "Introduction to Text Visualisation",
+    "text": "Introduction to Text Visualisation\n\nHistory of text\n\n\n\n\nText as historical archive\n\n\n\n\nText as a mode of communication\n\n\n\n\nTextual data for business intelligence analytics\n\n\n\n\nWhy Visualise Text?\n\nUnderstanding – get the “gist” of a document\nGrouping – cluster for overview or classification\nCompare – compare document collections, or\nInspect evolution of collection over time\nCorrelate – compare patterns in text to those in other data, e.g., correlate with social network\n\n\n\n\nLevels of Text Representation\n\nLexical level, transforming a string of characters into a sequence of atomic entities, called tokens.\nSyntactic level, identifying and tagging (anotating) each token’s functions.\nSemantic level, extracting of meaning and relationships between pieces of knowledge derived from the structures identified in the syntactical level.\n\n\n\n\nFundamental of Text Visualisation\nBe warn, not all text are written in English and in digital forms!"
+  },
+  {
+    "objectID": "lesson/Lesson11/Lesson05-TextVis.html#text-visualisation-methods",
+    "href": "lesson/Lesson11/Lesson05-TextVis.html#text-visualisation-methods",
+    "title": "Lesson 5: Visualising and Analysing Text Data",
+    "section": "Text Visualisation Methods",
+    "text": "Text Visualisation Methods\n\nTag Cloud\nWordle\nWord Tree\nPhrase Nets\n\n\n\nTag Cloud\n\nA tag cloud (word cloud, or weighted list in visual design) is a visual representation for text data, typically used to depict keyword metadata (tags) on websites, or to visualize free form text.\n‘Tags’ are usually single words, normally listed alphabetically, and the importance of each tag is shown with font size or color.\n\n\n\nSource: Tag cloud\n\n\n\n\nApplication of Tag Cloud I: Branding\n\nOne-word tag cloud of DBS’s corporate values statement created using Many Eyes.\n\n\n\n\n\nApplication of Tag Cloud I: Branding\n\nTwo-word tag cloud of DBS’s corporate values statement created using Many Eyes."
+  },
+  {
+    "objectID": "lesson/Lesson11/Lesson05-TextVis.html#wordle",
+    "href": "lesson/Lesson11/Lesson05-TextVis.html#wordle",
+    "title": "Lesson 5: Visualising and Analysing Text Data",
+    "section": "Wordle",
+    "text": "Wordle\n\nA toy for generating “word clouds” from text that you provide\n\n\n\n\nWord Clouds of Corporate Values Statements\n\n\n\n\n\n\n\n\n\n\nWord Tree\n\nA visual search tool for unstructured text, such as a book, article, speech or poem. It lets you pick a word or phrase and shows you all the different contexts in which the word or phrase appears.\nThe contexts are arranged in a tree-like branching structure to reveal recurrent themes and phrases.\n\n\n\nSource: wordtree\n\n\n\n\nPhrase Net\n\nA phrase net diagrams the relationships between different words used in a text. It uses a simple form of pattern matching to provide multiple views of the concepts contained in a book, speech, or poem.\n\n\n\n\n\nPhrase Net\n\n\nWords separate by the keyword “and”\n\n\nWords that directly follow one another\n\n\n\n\n\n\nParallel Tag Cloud\n\n\nReference: Parallel Tag Clouds to Explore and Analyze Faceted Text Corpora\n\n\n\n\nStory Tracker: Main View\n\n\nReference: Story Tracker: Incremental visual textanalytics of news story development"
+  },
+  {
+    "objectID": "lesson/Lesson11/Lesson05-TextVis.html#r-packages-for-text-visualisation",
+    "href": "lesson/Lesson11/Lesson05-TextVis.html#r-packages-for-text-visualisation",
+    "title": "Lesson 5: Visualising and Analysing Text Data",
+    "section": "R packages for Text Visualisation",
+    "text": "R packages for Text Visualisation\n\nggwordcloud: a word cloud geom for ggplot2\nTextPlot: An R package for Visualizing Text Data\ncorporaexplorer: An R package for dynamic exploration of text collections\nLDAvis: An R package for interactive topic model visualization\n\n\n\nwordcloud\n\nProvides functionality to create pretty word clouds, visualize differences and similarity between documents, and avoid over-plotting in scatter plots with text.\nVisit this link for more information.\n\n\n\n\n\nwordcloud2: Create Word Cloud by ‘htmlwidget’\n\nA fast visualization tool for creating wordcloud by using wordcloud2.js, ia JavaScript library to create wordle presentation on 2D canvas or HTML.\nIt provides Shiny functions.\nVisit this link for more information.\n\n\n\n\n\n\nggwordcloud: a word cloud geom for ggplot2\n\nggwordcloud provides a word cloud text geom for ggplot2.\nas an alternative to wordcloud and wordcloud2.\n\n\n\n\n\nWordcloud on Shiny\n\nFor live demo, visit this link\n\n\n\nTextPlot: R Library for Visualizing Text Data\n\nAims to visualise complex relations in texts.\nProvides functionalities for displaying text co-occurrence networks, text correlation networks, dependency relationships as well as text clustering.\nVisit this link for more information.\nThis example visualises the result of a text annotation which provides parts of speech tags and dependency relationships.\n\n\n\n\n\nTextPlot\n\nThis example shows plotting a biterm topic model which was pretrained and put in the package as an example.\n\n\n\n\n\nTextPlot\n\nThe following graph shows how frequently adjectives co-occur across all the documents.\n\n\n\n\n\ncorporaexplorer: An R package for dynamic exploration of text collections\n\ncorporaexplorer is an R package that uses the Shiny graphical user interface framework for dynamic exploration of text collections.\nIt’s intended primary audience are qualitatively oriented researchers who rely on close reading of textual documents as part of their academic activity.\n\n\n\n\n\ntextnets\n\n\n\nR package for automated text analysis using network techniques.\nVisit the github repository for more information.\n\nNotice that this package is not on cran yet. You need to install it by using the code install_github(“cbail/textnets”).\n\n\nReference: Bail, Christopher A. (2016) “Combining Network Analysis and Natural Language Processing to Examine how Advocacy Organizations Stimulate Conversation on Social Media.” Proceedings of the National Academy of Sciences, 113:42.\n\n\n\n\n\n\n\n\nLDAvis\n\nR package for interactive topic model visualization.\nVisit the github repository and cran for more information.\n\n\n\nSource: For live demo, visit this link."
+  },
+  {
+    "objectID": "lesson/Lesson11/Lesson05-TextVis.html#references",
+    "href": "lesson/Lesson11/Lesson05-TextVis.html#references",
+    "title": "Lesson 5: Visualising and Analysing Text Data",
+    "section": "References",
+    "text": "References\nCao, Nan and Cui, Weiwei (2016) Introduction to text visualization, Springer. This book is available at smu e-collection."
   }
 ]
