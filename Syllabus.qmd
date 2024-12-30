@@ -97,7 +97,7 @@ Students may work together to help one another with R programming issues and dis
 
 The purpose of the project is to provide students first hand experience on building **web-enabled visual analytics application** by using **Shiny**. It aims to **democratize data and analytics**. Hence, the application focuses and emphasises on interactivity and effective integration of techniques from data analytics and data visualization.
 
-For more details please refer to [Visual Analytics Project](_site/VAProject.html) page.
+For more details please refer to [Visual Analytics Project](https://isss608-ay2024-25jan.netlify.app/vaproject.html) page.
 
 ## Core Readings
 
