@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lesson 9: Visualising and Analysing Text Data – ISSS608</title>
+<title>Lesson 9: Visualising and Analysing Network Data – ISSS608</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -201,9 +201,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#content" id="toc-content" class="nav-link active" data-scroll-target="#content">Content</a></li>
   <li><a href="#lesson-slides-and-hands-on-notes" id="toc-lesson-slides-and-hands-on-notes" class="nav-link" data-scroll-target="#lesson-slides-and-hands-on-notes">Lesson Slides and Hands-on Notes</a></li>
-  <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a>
+  <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a></li>
+  <li><a href="#all-about-r" id="toc-all-about-r" class="nav-link" data-scroll-target="#all-about-r">All About R</a>
   <ul class="collapse">
-  <li><a href="#core-readings" id="toc-core-readings" class="nav-link" data-scroll-target="#core-readings">Core Readings</a></li>
+  <li><a href="#wrangling-network-data" id="toc-wrangling-network-data" class="nav-link" data-scroll-target="#wrangling-network-data">Wrangling Network Data</a></li>
+  <li><a href="#visualisation-and-analysis" id="toc-visualisation-and-analysis" class="nav-link" data-scroll-target="#visualisation-and-analysis">Visualisation and Analysis</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -213,7 +215,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lesson 9: Visualising and Analysing Text Data</h1>
+<h1 class="title">Lesson 9: Visualising and Analysing Network Data</h1>
 </div>
 
 
@@ -225,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">January 5, 2024</p>
+      <p class="date-modified">December 30, 2024</p>
     </div>
   </div>
     
@@ -239,36 +241,101 @@ ul.task-list li input[type="checkbox"] {
 <section id="content" class="level2">
 <h2 class="anchored" data-anchor-id="content">Content</h2>
 <ul>
-<li>Introduction to text data and text visualisation</li>
-<li>Text Visualisation methods:
+<li>Introduction to Graph Data Visualisation
 <ul>
-<li>Tag Cloud</li>
-<li>Wordle</li>
-<li>Word Tree</li>
-<li>Phrase Nets</li>
+<li>Basic principles of network graph</li>
+<li>Graph data visualisation in actions</li>
 </ul></li>
-<li>Text Visualisation in R
+<li>Network Graph Data
 <ul>
-<li>textplot</li>
-<li>LDAVis</li>
-<li>quanteda</li>
+<li>Network data sets</li>
+<li>Graph data format</li>
+<li>Graph Database</li>
 </ul></li>
+<li>Network Graph Visualisation Tools</li>
+<li>Designer toolkit
+<ul>
+<li>Gephi</li>
+</ul></li>
+<li>Programmer toolkit
+<ul>
+<li>R packages</li>
+</ul></li>
+<li>Graph layouts
+<ul>
+<li>Node-and-link layouts</li>
+<li>Force-directed layout</li>
+<li>Node-only layout</li>
+<li>Adjacency matrix</li>
+</ul></li>
+<li>Visual Attributes
+<ul>
+<li>Key node attributes</li>
+<li>Key edge attributes</li>
+<li>Bundles, shapes, images, and more</li>
+</ul></li>
+<li>Visual Analysis of Network Graphs
+<ul>
+<li>Relationships</li>
+<li>Hierarchies</li>
+<li>Communities</li>
+</ul></li>
+<li>Flows</li>
+<li>Spatial networks</li>
 </ul>
 </section>
 <section id="lesson-slides-and-hands-on-notes" class="level2">
 <h2 class="anchored" data-anchor-id="lesson-slides-and-hands-on-notes">Lesson Slides and Hands-on Notes</h2>
 <ul>
-<li><p><a href="../lesson/Lesson09/Lesson09-TextVis.html">Lesson 9: Visualising and Analysing Text Data</a> slides.</p></li>
-<li><p><a href="">Hands-on Exercise 9: Visualising and Analysing Text Data</a>.</p></li>
+<li><p><a href="../lesson/Lesson09/Lesson09-NetworkVis.html">Lesson 9: Visualising and Analysing Network Data</a> slides</p></li>
+<li><p><a href="https://r4va.netlify.app/chap27">Hands-on Exercise 9: Modelling, Visualising and Analysing Network Data with R</a>.</p></li>
 </ul>
 </section>
 <section id="readings" class="level2">
 <h2 class="anchored" data-anchor-id="readings">Readings</h2>
-<section id="core-readings" class="level3">
-<h3 class="anchored" data-anchor-id="core-readings">Core Readings</h3>
 <ul>
-<li><a href="http://campusguides.lib.utah.edu/content.php?pid=78288&amp;sid=579667">Fun with Text Visualization</a></li>
-<li><a href="https://www.visioncritical.com/pros-and-cons-word-clouds-visualizations/">The pros and cons of word clouds as visualizations</a></li>
+<li><a href="https://hal.archives-ouvertes.fr/hal-00828795/document">Visual Analysis of Complex Networks for Business Intelligence with Gephi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Graph_drawing">Graph Drawing</a></li>
+<li><a href="https://www.cs.umd.edu/users/ben/papers/Wong2011Graph.pdf">Graph Analytics - Lesson Learned and Challenges Ahead</a></li>
+<li><a href="http://noduslabs.com/cases/learn-read-interpret-network-graphs-data-visualization/">Learning to Read and Interpret Network Graph Data Visualizations</a></li>
+<li><a href="http://www.vismaster.eu/news/von/">The Visualization of Networks</a></li>
+<li><a href="http://hci.stanford.edu/jheer/projects/vizster/early_design/">ViZster: Visualizing Online Social Networks</a></li>
+<li>Adam Perer. <a href="http://perer.org/papers/adamPerer-BV_ch10.pdf">“Finding Beautiful Insights in the Chaos of Social Network Visualizations”</a>. In ’‘’Beautiful Visualization’’’. O’Reilly Press.</li>
+<li><a href="http://www.visualcomplexity.com/vc/">Visual Complexity</a></li>
+</ul>
+</section>
+<section id="all-about-r" class="level2">
+<h2 class="anchored" data-anchor-id="all-about-r">All About R</h2>
+<section id="wrangling-network-data" class="level3">
+<h3 class="anchored" data-anchor-id="wrangling-network-data">Wrangling Network Data</h3>
+<ul>
+<li><a href="https://www.data-imaginist.com/2017/introducing-tidygraph/%20Introducing">tidygraph</a></li>
+<li><a href="https://www.data-imaginist.com/2018/tidygraph-1-1-a-tidy-hope/">tidygraph 1.1 – A tidy hope</a></li>
+<li><a href="https://tidygraph.data-imaginist.com/">tidygraph</a></li>
+</ul>
+</section>
+<section id="visualisation-and-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="visualisation-and-analysis">Visualisation and Analysis</h3>
+<p><strong>ggraph</strong></p>
+<ul>
+<li><a href="https://ggraph.data-imaginist.com/">ggraph</a></li>
+<li><a href="https://www.data-imaginist.com/2017/announcing-ggraph/">Announcing ggraph</a></li>
+<li><a href="https://www.data-imaginist.com/2019/1-giraffe-2-giraffe-go/">1 giraffe, 2 giraffe, GO!</a></li>
+<li><a href="https://ggraph.data-imaginist.com/articles/Layouts.html">Layouts</a></li>
+<li><a href="https://ggraph.data-imaginist.com/articles/Nodes.html">Nodes</a></li>
+<li><a href="https://ggraph.data-imaginist.com/articles/Edges.html">Edges</a></li>
+<li><a href="https://ggraph.data-imaginist.com/articles/tidygraph.html">tidygraph and ggraph</a></li>
+</ul>
+<p><strong>vizNetwork</strong></p>
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/visNetwork/index.html">visNetwork: Network Visualization using ‘vis.js’ Library</a></li>
+<li><a href="https://cran.r-project.org/web/packages/visNetwork/vignettes/Introduction-to-visNetwork.html">Introduction to visNetwork</a></li>
+<li><a href="http://datastorm-open.github.io/visNetwork/">visNetwork, an R package for interactive network visualization</a></li>
+</ul>
+<p><strong>Circular Plot</strong></p>
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/circlize/index.html">circlize: circular visualization in R</a></li>
+<li><a href="https://jokergoo.github.io/circlize_book/book/">Circular Visualization in R</a></li>
 </ul>
 
 
