@@ -422,7 +422,6 @@ Recently, there are two well developed web-based data visualisation designed spe
 
 -   [Perceptual Edge](https://www.perceptualedge.com/)
 -   [Junk Charts](http://junkcharts.typepad.com/junk_charts/)
--   [The Functional Art](http://www.thefunctionalart.com/)
 
 ::: notes
 This slide provides you the links to three highly recommended data visualisation blogs. I strongly encourage students to visit bookmark them and visit them often not only during these course but also when you go our to practice.
@@ -435,3 +434,4 @@ renderthis::to_pdf(
   from = "https://isss608-ay2022-23apr.netlify.app/lesson/lesson01/Lesson01-VAA.html",
   to = "../../_site/lesson/lesson01/Lesson01-VAA.pdf")
 ```
+
