@@ -424,7 +424,7 @@ Recently, there are two well developed web-based data visualisation designed spe
 -   [Junk Charts](http://junkcharts.typepad.com/junk_charts/)
 
 ::: notes
-This slide provides you the links to three highly recommended data visualisation blogs. I strongly encourage students to visit bookmark them and visit them often not only during these course but also when you go our to practice.
+This slide provides you the links to two highly recommended data visualisation blogs. I strongly encourage students to visit bookmark them and visit them often not only during these course but also when you go our to practice.
 :::
 
 ```{r}
