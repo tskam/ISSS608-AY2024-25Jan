@@ -2497,5 +2497,33 @@
     "title": "Lesson 5: Visualising and Analysing Text Data",
     "section": "References",
     "text": "References\nCao, Nan and Cui, Weiwei (2016) Introduction to text visualization, Springer. This book is available at smu e-collection."
+  },
+  {
+    "objectID": "git.html",
+    "href": "git.html",
+    "title": "Git and Github",
+    "section": "",
+    "text": "Happy Git and GitHub for the useR. Highly recommended to beginners."
+  },
+  {
+    "objectID": "git.html#book",
+    "href": "git.html#book",
+    "title": "Git and Github",
+    "section": "",
+    "text": "Happy Git and GitHub for the useR. Highly recommended to beginners."
+  },
+  {
+    "objectID": "git.html#gitgithub",
+    "href": "git.html#gitgithub",
+    "title": "Git and Github",
+    "section": "git/github",
+    "text": "git/github\n\ngithub doc\nGitHub and RStudio"
+  },
+  {
+    "objectID": "git.html#blog-post",
+    "href": "git.html#blog-post",
+    "title": "Git and Github",
+    "section": "Blog post",
+    "text": "Blog post\n\nGetting starting with git and GitHub using RStudio\ngit\nTransform a folder as git project synchronized on Github or Gitlab\nRecovering from common Git predicaments\ngit in RStudio\nSolving git(GitHub) token issue"
   }
 ]
