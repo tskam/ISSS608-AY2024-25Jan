@@ -151,6 +151,16 @@ Note that the following examples are for references purposes. You are urge to us
 -   [A Fishy Business!](https://isss608-vastchallenge2023g3.netlify.app/)
 -   [FishEye](https://vaa-groupfour.netlify.app/)
 
+### AY2023-2024 January Term
+
+-   [The Alchemists](https://projectpisa.netlify.app/)
+-   [Weather Analytics](https://isss608-group9-weatheranalytics.shinyapps.io/shinyapp/)
+-   [Decoding Chaos](https://decoding-chaos.netlify.app/)
+
+### AY2023-2024 April Term
+
+-   [The Big Fish: Catching Illegal Fishing Through Visual Analytics](https://isss608-202324g4.netlify.app/). Specially mentioned: This project won **VAST Challenge 2024: Award for Comprehensive Characterization of Suspicious Behaviors**.
+
 # Q & A
 
 If you have any question, please post it on Piazza.
