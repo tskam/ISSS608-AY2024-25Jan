@@ -165,7 +165,7 @@
     "href": "Quarto.html#authoring-guide",
     "title": "All About Quarto",
     "section": "Authoring Guide",
-    "text": "Authoring Guide\n\nMarkdown Basics\nFigures\nTables\nDiagrams\nCitations & Footnotes\nCross References\nArticle Layout\n\nUseful web resources\n\nAwesome Quarto. This github repository provides a comprehensive listing of Quarto resources. It should be the second stop (after Quarto homepage) if you need to look for revelent materials about Quarto."
+    "text": "Authoring Guide\n\nMarkdown Basics\nFigures\nTables\nDiagrams\nCitations & Footnotes\nCross References\nArticle Layout"
   },
   {
     "objectID": "outline/Lesson09_outline.html",
@@ -2525,5 +2525,26 @@
     "title": "Git and Github",
     "section": "Blog post",
     "text": "Blog post\n\nGetting starting with git and GitHub using RStudio\ngit\nTransform a folder as git project synchronized on Github or Gitlab\nRecovering from common Git predicaments\ngit in RStudio\nSolving git(GitHub) token issue"
+  },
+  {
+    "objectID": "Quarto.html#useful-web-resources",
+    "href": "Quarto.html#useful-web-resources",
+    "title": "All About Quarto",
+    "section": "Useful web resources",
+    "text": "Useful web resources\n\nAwesome Quarto. This github repository provides a comprehensive listing of Quarto resources. It should be the second stop (after Quarto homepage) if you need to look for revelent materials about Quarto."
+  },
+  {
+    "objectID": "Quarto.html#coursework-website-prepared-by-seniors",
+    "href": "Quarto.html#coursework-website-prepared-by-seniors",
+    "title": "All About Quarto",
+    "section": "Coursework website prepared by seniors",
+    "text": "Coursework website prepared by seniors"
+  },
+  {
+    "objectID": "Quarto.html#website-prepared-by-seniors",
+    "href": "Quarto.html#website-prepared-by-seniors",
+    "title": "All About Quarto",
+    "section": "Website prepared by seniors",
+    "text": "Website prepared by seniors\n\nAY2023-24 January Term\n\nImran’s Visual Analytics page\nVictoria’s Visual Analytics page\nKale’s Visual Analytics Tales\n\n\n\nAY2023-24 April Term\n\nAlicia’s VA Webpage\nJoshua’s VA Journey"
   }
 ]

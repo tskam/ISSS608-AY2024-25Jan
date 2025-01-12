@@ -30,6 +30,19 @@ This page provides links to useful resources related Quarto.
 -   [Cross References](https://quarto.org/docs/authoring/cross-references.html)
 -   [Article Layout](https://quarto.org/docs/authoring/article-layout.html)
 
-Useful web resources
+##  Useful web resources
 
 -   [Awesome Quarto](https://github.com/mcanouil/awesome-quarto#featured-new-releases). This github repository provides a comprehensive listing of Quarto resources. It should be the second stop (after Quarto homepage) if you need to look for revelent materials about Quarto.
+
+##  Website prepared by seniors
+
+### AY2023-24 January Term
+
+- [Imran’s Visual Analytics page](https://imranmi-isss608-jan24.netlify.app/)
+- [Victoria's Visual Analytics page](https://iss608-vaa-victorianeo.netlify.app/)
+- [Kale's Visual Analytics Tales](https://akalestale.netlify.app/)
+
+### AY2023-24 April Term
+
+- [Alicia's VA Webpage](https://lnealicia-isss608.netlify.app/)
+- [Joshua's VA Journey](https://joshuaisaiah.netlify.app/)
