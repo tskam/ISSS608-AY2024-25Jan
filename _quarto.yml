@@ -13,13 +13,13 @@ website:
     - text: "Take-home Exercise"
       menu:
         - text: "Take-home Exercise 1"
-          href: "take-home_ex/TH_EX01.html"
+          href: "TH_EX/TH_EX01.html"
         - text: "Take-home Exercise 2"
-          href: "take-home_ex/TH_EX02.html"
+          href: "TH_EX/TH_EX02.html"
         - text: "Take-home Exercise 3"
-          href: "take-home_ex/TH_EX03.html"
+          href: "TH_EX/TH_EX03.html"
         - text: "Take-home Exercise 4"
-          href: "take-home_ex/TH_EX04.html"
+          href: "TH_EX/TH_EX04.html"
     - text: "Visual Analytics Project"
       href: VAproject.html
 

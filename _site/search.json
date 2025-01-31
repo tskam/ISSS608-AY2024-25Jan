@@ -2546,5 +2546,75 @@
     "title": "All About Quarto",
     "section": "Website prepared by seniors",
     "text": "Website prepared by seniors\n\nAY2023-24 January Term\n\nImran’s Visual Analytics page\nVictoria’s Visual Analytics page\nKale’s Visual Analytics Tales\n\n\n\nAY2023-24 April Term\n\nAlicia’s VA Webpage\nJoshua’s VA Journey"
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html",
+    "href": "TH_EX/TH_EX01.html",
+    "title": "Take-home Exercise 1",
+    "section": "",
+    "text": "Creating data visualisation beyond default"
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#overview",
+    "href": "TH_EX/TH_EX01.html#overview",
+    "title": "Take-home Exercise 1",
+    "section": "Overview",
+    "text": "Overview\nThis handout provides the context, task, expectations and grading criteria of Take-home Exercise 1. Students must review and understand them before getting started with the take-home exercise."
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#setting-the-scene",
+    "href": "TH_EX/TH_EX01.html#setting-the-scene",
+    "title": "Take-home Exercise 1",
+    "section": "Setting the scene",
+    "text": "Setting the scene\nAn international media company that publishes weekly content on digital platforms is planning to release articles on the following themes.\n\nHeart Attack in Japan\nShip Performance in the Gulf of Guinea"
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#the-task",
+    "href": "TH_EX/TH_EX01.html#the-task",
+    "title": "Take-home Exercise 1",
+    "section": "The Task",
+    "text": "The Task\nAssuming the role of the graphical editor of the media company, you are tasked to choose one of the theme above and to prepare data visualisation for the article."
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#the-data",
+    "href": "TH_EX/TH_EX01.html#the-data",
+    "title": "Take-home Exercise 1",
+    "section": "The Data",
+    "text": "The Data\nTo accomplish the task, one of the following data sets should be used:\n\nHeart Attack in Japan Youth Vs Adult\nShip Performance Clustering Dataset"
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#the-designing-tool",
+    "href": "TH_EX/TH_EX01.html#the-designing-tool",
+    "title": "Take-home Exercise 1",
+    "section": "The Designing Tool",
+    "text": "The Designing Tool\nThe data should be processed by using appropriate tidyverse family of packages and the statistical graphics must be prepared using ggplot2 and its extensions."
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#the-write-up",
+    "href": "TH_EX/TH_EX01.html#the-write-up",
+    "title": "Take-home Exercise 1",
+    "section": "The Write-up",
+    "text": "The Write-up\nThe write-up of the take-home exercise should include but not limited to the followings:\n\nA reproducible description of the procedures used to prepare the analytical visualisation. Please refer to the senior submission I shared below.\nA write-up of not more than 150 words per each data visualisation, describing and discussing the patterns and/or trends reveal by each visualisation prepared."
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#submission-date",
+    "href": "TH_EX/TH_EX01.html#submission-date",
+    "title": "Take-home Exercise 1",
+    "section": "Submission date",
+    "text": "Submission date\nYour completed take-home exercise is due on 16th February 2025 (Sunday) by 11:59pm mid-night."
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#learning-from-senior",
+    "href": "TH_EX/TH_EX01.html#learning-from-senior",
+    "title": "Take-home Exercise 1",
+    "section": "Learning from senior",
+    "text": "Learning from senior\n\nKYLIE TAN JING YI\nTOA ZI YING JANET\nLEW YING ZHEN SERENA"
+  },
+  {
+    "objectID": "TH_EX/TH_EX01.html#peer-learning",
+    "href": "TH_EX/TH_EX01.html#peer-learning",
+    "title": "Take-home Exercise 1",
+    "section": "Peer Learning",
+    "text": "Peer Learning\n\nARYA SIAHAAN\nCHENG CHUN CHIEH\nHA DUC TIEN\nHO ZI JUN\nJAYA GEORGE\nJOSHUA TING SI YUAN\nKE KE\nKRISTINE JOY PAAS\nKWOK PEI SHAN\nLIANG XIUHAO\nLIN GUAN JHEN\nLOH NIAN EN ALICIA\nLOW JI XIONG\nMOHAMAD HAFEZ BIN SIDEK\nQUEK YOU TING\nSARTHAK JAGDISH NAGAPURKAR\nSENG JING YI\nTAN FENGJI\nTEN WEI PENG\nTHET MYAT NOE\nWANG YUHUI\nXIAO FUDI\nZHANG CHENBIN\nZHANG WENJING\nZOU JIAXUN"
   }
 ]
