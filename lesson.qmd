@@ -13,7 +13,7 @@ editor: visual
 | 3 | 1/2 | SOE/SCIS2 SR B5-2 | [Interactivity in Visual Analytics](outline/Lesson03_outline.html) |  |
 | 4 | 8/2 | SOE/SCIS2 SR B5-2 | [Fundamentals of Visual Analytics](outline/Lesson04_outline.html) |  |
 | 5 | 15/2 | SOE/SCIS2 SR B5-2 | [Visual Multivariate Analysis](outline/Lesson05_outline.html) |  |
-| 6 | 22/2 | SOE/SCIS2 SR B5-2 | [Designing Web-enabled Visual Analytics Application with Shiny]() |  |
+| 6 | 22/2 | SOE/SCIS2 SR B5-2 | [Designing Web-enabled Visual Analytics Application with Shiny](outline/Lesson06_outline.html) |  |
 | 7 | 1/3 | SOE/SCIS2 SR B5-2 | [Visualising and Analysing Time-Oriented Data](outline/Lesson07_outline.html) |  |
 |  | 8/3 |  | Recess week |  |
 | 8 | 15/3 | SOE/SCIS2 SR B5-2 | [Visualising and Analysing Geographic Data](outline/Lesson08_outline.html) |  |
