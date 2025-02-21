@@ -2154,5 +2154,75 @@
     "title": "Take-home Exercise 1",
     "section": "Peer Learning",
     "text": "Peer Learning"
+  },
+  {
+    "objectID": "TH_EX/TH_EX02.html",
+    "href": "TH_EX/TH_EX02.html",
+    "title": "Take-home Exercise 2: Be Tradewise or Otherwise",
+    "section": "",
+    "text": "Since Mr. Donald Trump took office as the President of the United States on January 20, 2025, one of the most closely watched topics has been global trade.\nAs a visual analytics novice, you are eager to apply newly acquired techniques to explore and analyze the changing trends and patterns of Singapore’s international trade since 2015."
+  },
+  {
+    "objectID": "TH_EX/TH_EX02.html#overview",
+    "href": "TH_EX/TH_EX02.html#overview",
+    "title": "Take-home Exercise 2: Be Tradewise or Otherwise",
+    "section": "",
+    "text": "Since Mr. Donald Trump took office as the President of the United States on January 20, 2025, one of the most closely watched topics has been global trade.\nAs a visual analytics novice, you are eager to apply newly acquired techniques to explore and analyze the changing trends and patterns of Singapore’s international trade since 2015."
+  },
+  {
+    "objectID": "TH_EX/TH_EX02.html#the-task",
+    "href": "TH_EX/TH_EX02.html#the-task",
+    "title": "Take-home Exercise 2: Be Tradewise or Otherwise",
+    "section": "The Task",
+    "text": "The Task\nIn this take-home exercise, you are required to:\n\ndownload Merchandise Trade by Region/Market from Department of Statistics Singapore, DOS website,\nselect three data visualisation on this page, comments on the pros and cons and provide sketches of the make-over,\nusing appropriate ggplot2 and others packages create the make-over of the three data visualisation critic above, and\nanalyse the data with either time-series analysis or time-series forecasting methods by compliment the analysis with appropriate data visualisation methods and R packages."
+  },
+  {
+    "objectID": "TH_EX/TH_EX02.html#submission-instructions",
+    "href": "TH_EX/TH_EX02.html#submission-instructions",
+    "title": "Take-home Exercise 2: Be Tradewise or Otherwise",
+    "section": "Submission Instructions",
+    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages.\nThe write-up of the take-home exercise must be in Quarto html document format and publish on Netlify.\nThe write-up of the submission should consist of the followings:\n\ndetail description the data extraction and data preparation process,\ncritics on the three selected data visualisation and the make-over design. Not more than 250 words per data visualisation, and\ndescribe the time-series analysis and visualisation methods and the analysis results. Not more that 500 words."
+  },
+  {
+    "objectID": "TH_EX/TH_EX02.html#submission-date",
+    "href": "TH_EX/TH_EX02.html#submission-date",
+    "title": "Take-home Exercise 2: Be Tradewise or Otherwise",
+    "section": "Submission date",
+    "text": "Submission date\nYour completed take-home exercise is due on 9th March 2024, by 11:59pm (Sunday mid-night)."
+  },
+  {
+    "objectID": "TH_EX/TH_EX02.html#peer-learning",
+    "href": "TH_EX/TH_EX02.html#peer-learning",
+    "title": "Take-home Exercise 2: Be Tradewise or Otherwise",
+    "section": "Peer Learning",
+    "text": "Peer Learning"
+  },
+  {
+    "objectID": "TH_EX/TH_EXXX.html",
+    "href": "TH_EX/TH_EXXX.html",
+    "title": "Take-home Exercise 2: DataVis Makeover",
+    "section": "",
+    "text": "DataVis Makeover\n\n\n\nThe purpose of the makeover is to improve on the original visualisation. Focus on what works, what doesn’t work, why those things don’t work, and how you made it better. You should try stick to the fields in the data set provided and improve upon the original visualisation. However, if supplementing the data helps you tell a better story, go for it!"
+  },
+  {
+    "objectID": "TH_EX/TH_EXXX.html#the-task",
+    "href": "TH_EX/TH_EXXX.html#the-task",
+    "title": "Take-home Exercise 2: DataVis Makeover",
+    "section": "The Task",
+    "text": "The Task\nIn this take-home exercise, you are required to:\n\nselect one of the Take-home Exercise 1 prepared by your classmate,\ncritic the submission in terms of clarity and aesthetics,\nprepare a sketch for the alternative design by using the data visualisation design principles and best practices you had learned in Lesson 1 and 2, and\nremake the original design by using ggplot2, ggplot2 extensions and tidyverse packages."
+  },
+  {
+    "objectID": "TH_EX/TH_EXXX.html#submission-instructions",
+    "href": "TH_EX/TH_EXXX.html#submission-instructions",
+    "title": "Take-home Exercise 2: DataVis Makeover",
+    "section": "Submission Instructions",
+    "text": "Submission Instructions\nThis is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.\nThe specific submission instructions are as follows:\n\nThe analytical visualisation must be prepared by using R and appropriate R packages.\nThe write-up of the take-home exercise must be in Quarto html document format. You are required to publish the write-up on Netlify."
+  },
+  {
+    "objectID": "TH_EX/TH_EXXX.html#submission-date",
+    "href": "TH_EX/TH_EXXX.html#submission-date",
+    "title": "Take-home Exercise 2: DataVis Makeover",
+    "section": "Submission date",
+    "text": "Submission date\nYour completed take-home exercise is due on 28th January 2024, by 11:59pm evening."
   }
 ]

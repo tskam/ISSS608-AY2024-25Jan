@@ -1,0 +1,43 @@
+---
+title: "Take-home Exercise 2: Be Tradewise or Otherwise"
+date: "20 February 2025"
+date-modified: "last-modified"
+format: html
+---
+
+## Overview
+
+Since Mr. Donald Trump took office as the President of the United States on January 20, 2025, one of the most closely watched topics has been global trade.
+
+As a visual analytics novice, you are eager to apply newly acquired techniques to explore and analyze the changing trends and patterns of Singapore’s international trade since 2015.
+
+## The Task
+
+In this take-home exercise, you are required to:
+
+-   download [Merchandise Trade by Region/Market](https://www.singstat.gov.sg/find-data/search-by-theme/trade-and-investment/merchandise-trade/latest-data) from [Department of Statistics Singapore, DOS](https://www.singstat.gov.sg/) website,
+-   select three data visualisation on [this page](https://www.singstat.gov.sg/modules/infographics/singapore-international-trade), comments on the pros and cons and provide sketches of the make-over,
+-   using appropriate ggplot2 and others packages create the make-over of the three data visualisation critic above, and
+-   analyse the data with either time-series analysis or time-series forecasting methods by compliment the analysis with appropriate data visualisation methods and R packages. 
+
+## Submission Instructions
+
+This is an individual assignment. You are required to work on the take-home exercises and prepare submission individually.
+
+The specific submission instructions are as follows:
+
+-   The analytical visualisation must be prepared by using **R and appropriate R packages**.
+-   The write-up of the take-home exercise must be in **Quarto html document** format and publish on **Netlify**.
+-   The write-up of the submission should consist of the followings:
+    -   detail description the data extraction and data preparation process,
+    -   critics on the three selected data visualisation and the make-over design.  Not more than 250 words per data visualisation, and
+    -   describe the time-series analysis and visualisation methods and the analysis results.  Not more that 500 words.
+
+
+## Submission date
+
+Your completed take-home exercise is due on **9th March 2024, by 11:59pm (Sunday mid-night)**.
+
+## Peer Learning
+
+
