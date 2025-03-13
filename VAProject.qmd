@@ -129,7 +129,12 @@ The poster will be graded based on the following criteria:
 
 ## Sample Projects
 
-Note that the following examples are for references purposes. You are urge to use your own creativity and innovation to design the application
+Note that the following examples are for references purposes. You are urge to use your own creativity and innovation to design the application.
+
+### AY2019-2020 January
+
+-   [SGSAS: Simple Geo-Spatial Analysis using R-Shiny](https://wiki.smu.edu.sg/1920t2isss608/Group11_proposal)
+-   [A Visual Exploration of Media Consumption in Singapore](https://wiki.smu.edu.sg/1920t2isss608/Group02_proposal)
 
 ### AY2021-22 January Term
 
