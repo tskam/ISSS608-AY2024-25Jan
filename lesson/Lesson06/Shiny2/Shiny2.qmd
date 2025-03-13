@@ -8,6 +8,7 @@ format:
   revealjs:
     width: 1600
     height: 900
+    code-block-height: "650px"
     show-notes: false
     slide-number: true
     show-slide-number: 'all'
