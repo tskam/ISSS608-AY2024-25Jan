@@ -24,9 +24,8 @@ In this take-home exercise, you are required to select one of the module of your
 
 All teams must consult either
 
-- [Prototype](https://habaritanzania.netlify.app/) page of [AY2022-2023 January Term Group 3: Tanzania Tourism Analysis](https://thehabaritanzania.netlify.app/). There are three main modules in ths application the are: [Exploratory Data Analysis](https://habaritanzania.netlify.app/eda/eda) & [Confirmatory Data Analysis](https://habaritanzania.netlify.app/eda/cda), [Cluster Analysis](https://habaritanzania.netlify.app/analysis/clustering) and [Decision Tree Analysis](https://habaritanzania.netlify.app/analysis/decision_tree), or
-- **Prototype** page of [Decoding-choas](https://decoding-chaos.netlify.app/) and the Take-home Exercise 4 pages of the following group members [IMRAN BIN MOHD IBRAHIM](https://imranmi-isss608-jan24.netlify.app/), [TEO SUAN ERN](https://isss608-ay2024-suanern.netlify.app/) and [WONG NGAI MUNN ZACHARY MARK](https://isss608-ay2023-24t1-zach.netlify.app/)
-
+-   [Prototype](https://habaritanzania.netlify.app/) page of [AY2022-2023 January Term Group 3: Tanzania Tourism Analysis](https://thehabaritanzania.netlify.app/). There are three main modules in ths application the are: [Exploratory Data Analysis](https://habaritanzania.netlify.app/eda/eda) & [Confirmatory Data Analysis](https://habaritanzania.netlify.app/eda/cda), [Cluster Analysis](https://habaritanzania.netlify.app/analysis/clustering) and [Decision Tree Analysis](https://habaritanzania.netlify.app/analysis/decision_tree), or
+-   **Prototype** page of [Decoding-choas](https://decoding-chaos.netlify.app/) and the Take-home Exercise 4 pages of the following group members [IMRAN BIN MOHD IBRAHIM](https://imranmi-isss608-jan24.netlify.app/), [TEO SUAN ERN](https://isss608-ay2024-suanern.netlify.app/) and [WONG NGAI MUNN ZACHARY MARK](https://isss608-ay2023-24t1-zach.netlify.app/)
 
 Each of them were prepared by one of the member of the project team. After that they combined them into the Prototype page of their project website.
 
@@ -51,10 +50,10 @@ The specific submission instructions are as follows:
 
 ## Submission date
 
-In order to allocate enough time to integrate individua modules into the Shiny application, my humble advise is to complete Take-home Exercise 3 by **11:59pm mid-night, 23rd March 2025**.  Please note that this is a soft deadline.  Project groups are free to adjust the prototyping deadline according to your project timelines.  
+In order to allocate enough time to integrate individua modules into the Shiny application, my humble advise is to complete Take-home Exercise 3 by **11:59pm mid-night, 23rd March 2025**. Please note that this is a soft deadline. Project groups are free to adjust the prototyping deadline according to your project timelines.
 
 ::: callout-warning
-Students are strongly recommended to complete Take-home Exercise 3 ahead of the submission deadline. This will allow you to have more time to focus on the building of the Shiny application and to iterate the usability of the application.   
+Students are strongly recommended to complete Take-home Exercise 3 ahead of the submission deadline. This will allow you to have more time to focus on the building of the Shiny application and to iterate the usability of the application.
 :::
 
 Please be informed that grading of Take-home Exercise 3 will start from **31st March 2025** onward.
