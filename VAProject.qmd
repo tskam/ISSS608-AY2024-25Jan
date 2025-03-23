@@ -89,10 +89,12 @@ The dimensions for the poster must conform to the International Standards Organi
 -   Resolution = 300dpi or above
 -   7016 pixels x 9933 pixels (print resolution)
 -   File format = jpeg
+-   Name the poster as **ISSS608_AY2024-25Jan_Group00**.
 
-::: {.callout-note}
-- If MS Power Point is used to prepare the poster, please consult this [link](https://support.microsoft.com/en-us/kb/827745) to change to default configuration in order to ensure that the final jpg file conforms to the requirement stated above. 
-- The poster will be considered a final deliverable, so don't forget to apply good visual design and data visualisation principles and best practice to your poster.
+
+::: callout-note
+-   If MS Power Point is used to prepare the poster, please consult this [link](https://support.microsoft.com/en-us/kb/827745) to change to default configuration in order to ensure that the final jpg file conforms to the requirement stated above.
+-   The poster will be considered a final deliverable, so don't forget to apply good visual design and data visualisation principles and best practice to your poster.
 :::
 
 ### Final Deliverables
@@ -116,7 +118,7 @@ The visual analytics project will account for 30% of your final grade in the cou
 -   Project website 15%
 -   Poster 15%
 -   Minutes of Meeting 15%
--   Peer Evaluation 15% 
+-   Peer Evaluation 15%
 -   ShinyApp 40%
 
 The course instructor will consider strongly the novelty of the idea (If it has never been done before, you will get lots of credit!), how it addresses the problem at hand, the methodology you employ in doing the research, and your technical skill in implementing the idea.
