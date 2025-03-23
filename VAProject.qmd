@@ -42,7 +42,7 @@ The Minutes of Meeting must be uploaded on eLearn within 24hrs after the meeting
 -   Brainstorming project ideas and consulting with course instructor anytime after the project topic(s) is released.
 -   Editing and publishing project proposal on Netlify latest by the end of **Week 8**.
 -   Uploading project poster on eLearn by **2nd April 2025 at 11:59pm (mid-night)**.
--   Poster presentation: **5th April 2025 2:00-4:00pm**
+-   Poster presentation: **5th April 2025 9:30-11:00am, Venue: Alcove, Basement SCIS I**
 -   Submission of final application, user guide, project poster and artifacts: **6th April 2025 by 11:59pm (mid-night)**
 
 ## Project Deliverables
@@ -87,11 +87,13 @@ The dimensions for the poster must conform to the International Standards Organi
 
 -   Size = ISO A1 (594 × 841mm or 23.39 × 33.11inci)
 -   Resolution = 300dpi or above
+-   7016 pixels x 9933 pixels (print resolution)
 -   File format = jpeg
 
-Please ensure that the poster is in high resolution.
-
-**Note:** The poster will be considered a final deliverable, so don't forget to apply good visual design and data visualisation principles and best practice to your poster.
+::: {.callout-note}
+- If MS Power Point is used to prepare the poster, please consult this [link](https://support.microsoft.com/en-us/kb/827745) to change to default configuration in order to ensure that the final jpg file conforms to the requirement stated above. 
+- The poster will be considered a final deliverable, so don't forget to apply good visual design and data visualisation principles and best practice to your poster.
+:::
 
 ### Final Deliverables
 
@@ -111,10 +113,11 @@ The final deliverable must be uploaded into the Dropbox of e-Learn (e.g. LMS). I
 
 The visual analytics project will account for 30% of your final grade in the course. The distribution of marks for each stage of the project are as follows:
 
--   Project website 20%
+-   Project website 15%
 -   Poster 15%
 -   Minutes of Meeting 15%
--   ShinyApp 50%
+-   Peer Evaluation 15% 
+-   ShinyApp 40%
 
 The course instructor will consider strongly the novelty of the idea (If it has never been done before, you will get lots of credit!), how it addresses the problem at hand, the methodology you employ in doing the research, and your technical skill in implementing the idea.
 
